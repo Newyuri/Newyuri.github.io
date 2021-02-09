@@ -1,6 +1,21 @@
 [
   
   {
+    "title": "Enable Google Page Views",
+    "url": "/posts/Eighteen-Days-Before/",
+    "categories": "Blogging, Tutorial",
+    "tags": "google analytics, pageviews",
+    "date": "2021-02-09 07:32:00 +0800",
+    
+
+
+
+
+
+    "snippet": "This post is to enable Page Views on the Chirpy theme based blog that you just built. This requires technical knowledge and it’s recommended to keep the google_analytics.pv disabled unless you have a good reason. If your website has low traffic, the page views count would discourage you to write ..."
+  },
+  
+  {
     "title": "Welcome to Jekyll!",
     "url": "/posts/welcome-to-jekyll/",
     "categories": "jekyll, update",

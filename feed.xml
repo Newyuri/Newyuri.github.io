@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2021-02-09T13:12:00+08:00</updated>
+  <updated>2021-02-09T13:12:57+08:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>/</uri>
@@ -17,6 +17,46 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Enable Google Page Views</title>
+    <link href="/posts/Eighteen-Days-Before/" rel="alternate" type="text/html" title="Enable Google Page Views" />
+    <published>2021-02-09T07:32:00+08:00</published>
+  
+    <updated>2021-02-09T07:32:00+08:00</updated>
+  
+    <id>/posts/Eighteen-Days-Before/</id>
+    <content src="/posts/Eighteen-Days-Before/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Tutorial" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      This post is to enable Page Views on the Chirpy theme based blog that you just built. This requires technical knowledge and it’s recommended to keep the google_analytics.pv disabled unless you have a good reason. If your website has low traffic, the page views count would discourage you to write more blogs. With that said, let’s start with the setup.
+
+Set up Google Analytics
+
+Create GA account ...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
