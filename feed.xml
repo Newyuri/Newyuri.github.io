@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2021-02-09T13:12:57+08:00</updated>
+  <updated>2021-02-09T13:14:36+08:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>/</uri>
@@ -20,8 +20,8 @@
 
   
   <entry>
-    <title>Enable Google Page Views</title>
-    <link href="/posts/Eighteen-Days-Before/" rel="alternate" type="text/html" title="Enable Google Page Views" />
+    <title>还有18天出成绩</title>
+    <link href="/posts/Eighteen-Days-Before/" rel="alternate" type="text/html" title="还有18天出成绩" />
     <published>2021-02-09T07:32:00+08:00</published>
   
     <updated>2021-02-09T07:32:00+08:00</updated>
@@ -34,9 +34,7 @@
 
   
     
-    <category term="Blogging" />
-    
-    <category term="Tutorial" />
+    <category term="出成绩" />
     
   
 
