@@ -4,7 +4,7 @@
   <id>203ny.tk/</id>
   <title>Yucapri</title>
   <subtitle>Blog of Yucapri</subtitle>
-  <updated>2021-02-09T13:41:53+08:00</updated>
+  <updated>2021-02-09T16:46:20+08:00</updated>
   <author>
     <name>Yucapri</name>
     <uri>203ny.tk/</uri>
@@ -20,21 +20,23 @@
 
   
   <entry>
-    <title>还有18天出成绩</title>
-    <link href="203ny.tk/posts/Eighteen-Days-Before/" rel="alternate" type="text/html" title="还有18天出成绩" />
-    <published>2021-02-09T07:32:00+08:00</published>
+    <title>First Page</title>
+    <link href="203ny.tk/posts/First-page/" rel="alternate" type="text/html" title="First Page" />
+    <published>2021-02-08T11:45:09+08:00</published>
   
-    <updated>2021-02-09T07:32:00+08:00</updated>
+    <updated>2021-02-08T11:45:09+08:00</updated>
   
-    <id>203ny.tk/posts/Eighteen-Days-Before/</id>
-    <content src="203ny.tk/posts/Eighteen-Days-Before/" />
+    <id>203ny.tk/posts/First-page/</id>
+    <content src="203ny.tk/posts/First-page/" />
     <author>
       <name>Yucapri</name>
     </author>
 
   
     
-    <category term="出成绩" />
+    <category term="jekyll" />
+    
+    <category term="update" />
     
   
 
@@ -46,11 +48,11 @@
 
 
 
-      This post is to enable Page Views on the Chirpy theme based blog that you just built. This requires technical knowledge and it’s recommended to keep the google_analytics.pv disabled unless you have a good reason. If your website has low traffic, the page views count would discourage you to write more blogs. With that said, let’s start with the setup.
+      You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.
 
-Set up Google Analytics
+Jekyll requires blog post files to be named according to the following format:
 
-Create GA account ...
+YEAR-MONTH-DAY-title.MAR...
     </summary>
   
 
@@ -131,6 +133,97 @@ YEAR-MONTH-DAY-title.MAR...
 Set up Google Analytics
 
 Create GA account ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Customize the Favicon</title>
+    <link href="203ny.tk/posts/customize-the-favicon/" rel="alternate" type="text/html" title="Customize the Favicon" />
+    <published>2019-08-11T00:34:00+08:00</published>
+  
+    <updated>2021-02-09T11:47:06+08:00</updated>
+  
+    <id>203ny.tk/posts/customize-the-favicon/</id>
+    <content src="203ny.tk/posts/customize-the-favicon/" />
+    <author>
+      <name>Yucapri</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Tutorial" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      In Chirpy, the image files of Favicons are placed in assets/img/favicons/. You may need to replace them with your own. So let’s see how to customize these Favicons.
+
+With a square image (PNG, JPG or GIF) in hand, open the site Favicon &amp;amp; App Icon Generator and upload your original image.
+
+
+
+Click button Create Favicon and wait a moment for the website to generate the icons of various sizes a...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Getting Started</title>
+    <link href="203ny.tk/posts/getting-started/" rel="alternate" type="text/html" title="Getting Started" />
+    <published>2019-08-09T20:55:00+08:00</published>
+  
+    <updated>2021-02-09T11:47:06+08:00</updated>
+  
+    <id>203ny.tk/posts/getting-started/</id>
+    <content src="203ny.tk/posts/getting-started/" />
+    <author>
+      <name>Yucapri</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Tutorial" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Prerequisites
+
+Follow the Jekyll Docs to complete the installation of Ruby, RubyGems, Jekyll and Bundler.
+
+Installation
+
+There are two ways to get the theme:
+
+
+  Install from RubyGems - Easy to update, isolate irrelevant project files so you can focus on writing.
+  Fork on GitHub - Convenient for custom development, but difficult to update, only suitable for web developers.
+
+
+Installing the The...
     </summary>
   
 
