@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>203ny.tk/</id>
+  <id>203ny.tk/hide/</id>
   <title>Yucapri</title>
   <subtitle>Blog of Yucapri</subtitle>
-  <updated>2021-02-09T16:52:53+08:00</updated>
+  <updated>2021-02-09T16:55:15+08:00</updated>
   <author>
     <name>Yucapri</name>
-    <uri>203ny.tk/</uri>
+    <uri>203ny.tk/hide/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="203ny.tk/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="203ny.tk/hide/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en-US"
-    href="203ny.tk/"/>
+    href="203ny.tk/hide/"/>
   <generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
   <rights> © 2021 Yucapri </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>还有18天出成绩</title>
-    <link href="203ny.tk/posts/Eighteen-Days-Before/" rel="alternate" type="text/html" title="还有18天出成绩" />
+    <link href="203ny.tk/hide/posts/Eighteen-Days-Before/" rel="alternate" type="text/html" title="还有18天出成绩" />
     <published>2021-02-09T07:32:00+08:00</published>
   
     <updated>2021-02-09T07:32:00+08:00</updated>
   
-    <id>203ny.tk/posts/Eighteen-Days-Before/</id>
-    <content src="203ny.tk/posts/Eighteen-Days-Before/" />
+    <id>203ny.tk/hide/posts/Eighteen-Days-Before/</id>
+    <content src="203ny.tk/hide/posts/Eighteen-Days-Before/" />
     <author>
       <name>Yucapri</name>
     </author>
@@ -59,13 +59,13 @@ Create GA account ...
   
   <entry>
     <title>Welcome to Jekyll!</title>
-    <link href="203ny.tk/posts/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
+    <link href="203ny.tk/hide/posts/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
     <published>2021-02-08T11:45:09+08:00</published>
   
     <updated>2021-02-08T11:45:09+08:00</updated>
   
-    <id>203ny.tk/posts/welcome-to-jekyll/</id>
-    <content src="203ny.tk/posts/welcome-to-jekyll/" />
+    <id>203ny.tk/hide/posts/welcome-to-jekyll/</id>
+    <content src="203ny.tk/hide/posts/welcome-to-jekyll/" />
     <author>
       <name>Yucapri</name>
     </author>
@@ -99,13 +99,13 @@ YEAR-MONTH-DAY-title.MAR...
   
   <entry>
     <title>Enable Google Page Views</title>
-    <link href="203ny.tk/posts/enable-google-pv/" rel="alternate" type="text/html" title="Enable Google Page Views" />
+    <link href="203ny.tk/hide/posts/enable-google-pv/" rel="alternate" type="text/html" title="Enable Google Page Views" />
     <published>2021-01-04T07:32:00+08:00</published>
   
     <updated>2021-02-09T11:47:06+08:00</updated>
   
-    <id>203ny.tk/posts/enable-google-pv/</id>
-    <content src="203ny.tk/posts/enable-google-pv/" />
+    <id>203ny.tk/hide/posts/enable-google-pv/</id>
+    <content src="203ny.tk/hide/posts/enable-google-pv/" />
     <author>
       <name>Yucapri</name>
     </author>

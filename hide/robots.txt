@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: 203ny.tk/sitemap.xml
+Sitemap: 203ny.tk/hide/sitemap.xml
